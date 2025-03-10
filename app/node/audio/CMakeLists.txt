@@ -16,6 +16,7 @@
 
 add_subdirectory(pan)
 add_subdirectory(volume)
+add_subdirectory(pitch)
 
 set(OLIVE_SOURCES
   ${OLIVE_SOURCES}
